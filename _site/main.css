@@ -1,13 +1,13 @@
 .btn {
 	border-radius: 0px;
-  background: #dd6464;
+  background: rgba(221, 100, 100, 0.8);
   color: #fff;
   border: 0px;
   padding: 20px 40px;
 }
 
 .btn:hover {
-  background: #f7772c;
+  background: #dd6464;
   color: #fff;
 }
 
@@ -34,7 +34,22 @@ p {
   font-size: 1.5em;
   padding: 0;
   margin: 0;
+  color: #fff;
 }
+
+.col-xs-6 {
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+  font-family: 'Slabo 27px', serif;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+h3 {font-size: 3em;}
+h4 {font-size: 2em;}
 
 @media (max-width: 400px) {
   html{
