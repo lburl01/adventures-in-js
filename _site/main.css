@@ -22,7 +22,15 @@ body {
 }
 
 #slide-two {
-  display:none;
+  display: none;
+}
+
+#slide-three-mtn {
+  display: none;
+}
+
+#slide-three-river {
+  display: none;
 }
 
 .dropdown-menu {
