@@ -17,6 +17,27 @@ body {
   background-repeat: no-repeat;
 }
 
+.dropdown-menu {
+  border-radius: 0px;
+  background: #dd6464;
+  color: #fff;
+  border: 0px;
+  padding: 20px 40px;
+}
+
+.dropdown-menu {
+  border-radius: 0px;
+  background: #dd6464;
+  color: #fff;
+  border: 0px;
+  padding: 20px 40px;
+}
+
+a:hover {
+  background: #dd6464;
+  color: #fff;
+}
+
 .container {
   position: relative;
 }
