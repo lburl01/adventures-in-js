@@ -17,6 +17,14 @@ body {
   width: 100%;
 }
 
+#slide-one {
+  display: block;
+}
+
+#slide-two {
+  display:none;
+}
+
 .dropdown-menu {
   border-radius: 0px;
   background: #dd6464;
