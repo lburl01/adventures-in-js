@@ -1,13 +1,13 @@
 .btn {
 	border-radius: 0px;
-  background: rgba(221, 100, 100, 0.8);
+  background: #dd6464;
   color: #fff;
   border: 0px;
   padding: 20px 40px;
 }
 
 .btn:hover {
-  background: #dd6464;
+  background: #f77e5e;
   color: #fff;
 }
 
@@ -16,6 +16,12 @@ body {
   background-size: cover;
   width: 100%;
 }
+
+/*.bg2 {
+  background: url('https://unsplash.com/search/map?photo=RkBTPqPEGDo') no-repeat;
+  background-size: cover;
+  width: 100%;
+}*/
 
 #slide-one {
   display: block;
@@ -63,6 +69,8 @@ a:hover {
   top: 50%;
   left:50%;
   transform: translate(-50%,-50%);
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 25px;
 }
 
 p {
