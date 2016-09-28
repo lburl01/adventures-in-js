@@ -12,9 +12,9 @@
 }
 
 body {
-  background-image: url('https://hd.unsplash.com/photo-1444075107151-b2090be89337');
+  background: url('https://hd.unsplash.com/photo-1444075107151-b2090be89337') no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
+  width: 100%;
 }
 
 .dropdown-menu {

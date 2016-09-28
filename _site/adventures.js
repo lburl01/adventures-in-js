@@ -1,5 +1,4 @@
-$(document).ready(function(){
-    $("btn btn-default btn-lg").click(function(){
-        $("p").hide();
-    });
+
+$( ".btn" ).click(function() {
+  $( ".slide-one" ).hide( "slow")
 });
